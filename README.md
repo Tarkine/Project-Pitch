@@ -12,7 +12,7 @@ Each pitch should contain the following information:
 
 1. Summary of idea
 
-Tarkine (an ancient forest of tasmania) is a game where the user finds himself trapped in a forest. Through the player’s own decisions and exploration they face a dynamic storyline that requires problem solving, deduction, and resource gathering in order to escape.
+Tarkine (an ancient forest of Tasmania) is a game where the user finds himself trapped in a forest. Through the player’s own decisions and exploration they face a dynamic storyline that requires problem solving, deduction, and resource gathering in order to escape.
 
 2. What problem or pain point does it solve? a. Keep it high level without going into too much detail. (3-4 sentences is enough)
 Entertainment
