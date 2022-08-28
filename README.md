@@ -27,7 +27,7 @@ MVP Statement: Functioning game with choose your own, diverging story branches t
     - Constructors
     - DOM manipulation
     - Forms
-    - Stretch
     - Local storage
+  - Stretch
     - Animations
 
